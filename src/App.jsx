@@ -1,5 +1,4 @@
 import React from 'react'
-import Steper from './Component/Steper'
 import StepForm from './Component/StepForm ';
 
 
